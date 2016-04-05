@@ -1,6 +1,10 @@
 The MIT License (MIT)
 
-Copyright (c) 2015 Luca Chiricozzi
+Portions of this project are Copyright (c) 2016 Jacob Ritchie as part 
+of the agit pelican theme.
+
+Portions of this project are Copyright (c) 2015 Luca Chiricozzi as part 
+of the mg pelican theme.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
