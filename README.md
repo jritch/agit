@@ -1,4 +1,4 @@
-mg
+Agit
 ==============
 
 A minimal theme for [Pelican](http://blog.getpelican.com/) that uses uikit.
